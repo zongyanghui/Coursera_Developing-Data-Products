@@ -1,0 +1,12 @@
+name: MyDDPApp
+title: MyDDPApp
+username:
+account: yanghuizong
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2572152
+bundleId: 3392930
+url: https://yanghuizong.shinyapps.io/MyDDPApp/
+when: 1594766477.53214
+asMultiple: FALSE
+asStatic: FALSE
